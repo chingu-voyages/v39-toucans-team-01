@@ -1,70 +1,83 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<p align="center">
+  <a href="#about-the-project">About</a> •
+  <a href="#roadmap">Roadmap</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#contributors">Contributors</a> •
+  <a href="#license">License</a> •
+  <a href="#acknowledgements">Acknowledgements</a>
+</p>
 
-In the project directory, you can run:
 
-### `yarn start`
+<!-- ABOUT THE PROJECT -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About The Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Website for viewing movie details.
 
-### `yarn test`
+### Key Feature
+-  Watch movie details
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Built With
 
-### `yarn build`
+The entire codebase consists in **JavaScript**, here is a list of technologies used:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React**: User interface library
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- ROADMAP -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Roadmap
 
-### `yarn eject`
+See the [open issues](https://github.com/chingu-voyages/v39-toucans-team-01/issues) for a list of proposed features (and known issues).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- CONTRIBUTING -->
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Any contributions you make are **greatly appreciated**. There are many ways in which you can participate in this project, for example:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Submit bugs and feature requests](https://github.com/chingu-voyages/v39-toucans-team-01/issues/new/choose), and help us verify as they are checked in
+- Review [source code changes](https://github.com/chingu-voyages/v39-toucans-team-01/pulls)
 
-## Learn More
+If you are interested in fixing issues and contributing directly to the code base,
+please see the document [how to contribute](./CONTRIBUTING.md), which covers the following:
+- Commit/PR structure
+- PR summary
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributors
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See more details about the [contributors](https://github.com/chingu-voyages/v39-toucans-team-01/graphs/contributors)
 
-### Code Splitting
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://github.com/Daniel-ipymb?tab=overview&from=2020-12-01&to=2020-12-31"><img src="https://avatars.githubusercontent.com/u/66982237?v=4" width="100px;" alt="daniel"/><br /><sub><b>Daniel Ogunlana </b></sub></a><br /><a href="https://github.com/chingu-voyages/v39-toucans-team-01/commits?author=Daniel-ipymb" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/cajishat"><img src="https://avatars.githubusercontent.com/u/17421359?v=4" width="100px;" alt=""/><br /><sub><b>Cajisha</b></sub></a><br /><a href="https://github.com/chingu-voyages/v39-toucans-team-01/commits?author=cajishat" title="Code">💻</a></td>  
+    <td align="center"><a href="https://github.com/bryanloyd"><img src="https://avatars.githubusercontent.com/u/15060407?v=4" width="100px;" alt=""/><br /><sub><b>Bryan Loyd</b></sub></a><br /><a href="https://github.com/chingu-voyages/v39-toucans-team-01/commits?author=bryanloyd" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ArturoDucasse"><img src="https://avatars.githubusercontent.com/u/66644638?v=4" width="100px;" alt=""/><br /><sub><b>Arturo Ducasse</b></sub></a><br /><a href="https://github.com/chingu-voyages/v39-toucans-team-01/commits?author=ArturoDucasse" title="Code">💻</a></td>
+  </tr>
+</table>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-### Analyzing the Bundle Size
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<!-- LICENSE -->
 
-### Making a Progressive Web App
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Licensed under the MIT license. See [MIT](LICENSE) for more information.
 
-### Advanced Configuration
+<!-- ACKNOWLEDGEMENTS -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Acknowledgements
 
-### Deployment
+- [GitHub Pages](https://pages.github.com/)
+- [Husky](https://typicode.github.io/husky/#/)
+- [Finhub](https://finnhub.io/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
