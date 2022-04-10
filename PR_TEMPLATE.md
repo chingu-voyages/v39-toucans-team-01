@@ -1,4 +1,4 @@
-# PR naming convention
+# PR/Commit naming convention
 Follow that keyword with a "/" then the issue number, then and "_" then use kabob case for the rest of the branch name.
 
 Resolves #issue_number
