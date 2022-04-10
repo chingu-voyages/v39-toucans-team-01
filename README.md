@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href="#about-the-project">About</a> •
   <a href="#roadmap">Roadmap</a> •
@@ -47,7 +45,7 @@ please see the document [how to contribute](./CONTRIBUTING.md), which covers the
 
 ## Contributors
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See more details about the [contributors](https://github.com/chingu-voyages/v39-toucans-team-01/graphs/contributors)
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See more details about the [contributors](https://github.com/chingu-voyages/v39-toucans-team-01/graphs/contributors).
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -77,7 +75,6 @@ Licensed under the MIT license. See [MIT](LICENSE) for more information.
 ## Acknowledgements
 
 - [GitHub Pages](https://pages.github.com/)
-- [Husky](https://typicode.github.io/husky/#/)
-- [Finhub](https://finnhub.io/)
+- [Themoviedb](https://developers.themoviedb.org/4/getting-started/authorization)
 
 ---
