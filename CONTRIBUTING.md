@@ -56,9 +56,14 @@ $ yarn start
 Follow the [keyword](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716) with a "/" then the issue number, then and "_" then use kabob case for the rest of the branch name.
 
 **Examples**: 
-- Feat/#3_add-readme
-- Perf/#40_fix-slow-component
-- Fix/#22_padding-error
+- feat/#3_add-readme
+- perf/#40_fix-slow-component
+- fix/#22_padding-error
+
+1. Create your Feature Branch (`git checkout -b feature/#<issue_number>_amazing-feature`)
+2. Commit your Changes (`git commit -m "feat: add some amazing feature"`)
+3. Push to the Branch (`git push -u origin feature/#<issue_number>_amazing-feature`)
+4. Open a Pull Request
 
 ## PR summary
 
